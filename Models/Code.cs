@@ -9,8 +9,8 @@
         public string RepositoryURL{ get; set; }
         public string Licenses{ get; set; }
         public float Accuracy { get; set; }
-        public List<string?>Tags { get; set; }
-        public List<Comment> Comments { get; set; }
+        //public List<string>Tags { get; set; }
+        //public List<Comment> Comments { get; set; }
 
     }
 }
